@@ -1,8 +1,23 @@
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Ferramenta](https://img.shields.io/badge/Ferramenta-Power%20BI-blue)
+
 # Desafio DIO: Report Financeiro Interativo com Foco em UX no Power BI
 
 Este repositório documenta a resolução do desafio de projeto da DIO "Atualizando Relatório Financeiro com Foco na Experiência do Usuário". O projeto transforma um relatório financeiro estático em uma experiência de análise interativa e profissional, com foco total na navegabilidade e na experiência do usuário (UX).
 
 **[>> Clique aqui para acessar o Relatório Interativo <<](https://app.powerbi.com/groups/me/reports/0c9de950-0828-495b-ab3e-c891e449d104/ReportSection?experience=power-bi)**
+
+---
+
+## 📋 Índice
+
+1. [Objetivo do Projeto](#-1-objetivo-do-projeto)
+2. [Ferramentas Utilizadas](#-2-ferramentas-utilizadas)
+3. [Funcionalidades Implementadas](#-3-funcionalidades-e-recursos-implementados)
+4. [Arquivo Fonte (.pbix)](#-4-arquivo-fonte-pbix)
+5. [Processo de Criação e Desafios](#-5-processo-de-criação-e-desafios-superados)
+6. [Telas do Relatório](#-6-telas-do-relatório)
+7. [Autor](#-7-autor)
 
 ---
 
@@ -31,7 +46,11 @@ Este relatório vai além de visuais estáticos e inclui as seguintes funcionali
     * **Análise Detalhada (Lucro):** Uma dashboard focada em métricas de lucratividade (Profit), analisando o lucro ao longo do tempo e por produto.
 * **Feedback Visual (UX):** Botões com efeitos "Ao Focalizar" (*On Hover*) que mudam de aparência ao passar o mouse, fornecendo um feedback claro de interatividade ao usuário.
 
-## 📈 4. Processo de Criação e Desafios Superados
+## 📂 4. Arquivo Fonte (.pbix)
+
+O arquivo fonte `.pbix` (`desafio-dio-dashboards.pbix`) está incluído neste repositório. Você pode baixá-lo e abri-lo no Power BI Desktop para explorar a modelagem, os visuais e a configuração dos indicadores e ações em detalhes.
+
+## 📈 5. Processo de Criação e Desafios Superados
 
 A implementação da funcionalidade de menu interativo foi a parte mais complexa e instrutiva do projeto. O processo exigiu a combinação de três painéis do Power BI: **Seleção**, **Indicadores** e **Formato (Ações)**.
 
@@ -61,14 +80,21 @@ Durante a implementação, surgiram diversos desafios comuns que exigiram depura
 
 A superação desses desafios foi fundamental para o aprendizado e para garantir uma funcionalidade robusta e livre de bugs.
 
-## 📸 5. Telas do Relatório
-
-*(Aqui você deve usar a sintaxe do Markdown para imagens. Crie uma pasta `img` no seu repositório, coloque as imagens nela e use os links relativos abaixo)*
+## 📸 6. Telas do Relatório
 
 | Página Home | Análise de Vendas (Menu Fechado) |
 | :---: | :---: |
-| ![Página Home](img/home.png) | ![Análise de Vendas](img/relatorio.png) |
+| ![Página Home](home.png) | ![Análise de Vendas](relatorio.png) |
 
 | Análise de Vendas (Menu Aberto) | Análise Detalhada (Lucro) |
 | :---: | :---: |
-| ![Menu Aberto](img/menu-aberto.png) | ![Análise Detalhada](img/analise.png) |
+| ![Menu Aberto](menu-aberto.png) | ![Análise Detalhada](analise.png) |
+
+---
+
+## 👤 7. Autor
+
+**João Vitor**
+
+* [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-vargas-martins-b67b29292/)
+* [Portfólio (se houver)](https://portfolio-wenes11-omega.vercel.app/)
