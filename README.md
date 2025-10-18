@@ -67,8 +67,8 @@ A superação desses desafios foi fundamental para o aprendizado e para garantir
 
 | Página Home | Análise de Vendas (Menu Fechado) |
 | :---: | :---: |
-| ![Página Home](img/home.jpg) | ![Análise de Vendas](img/relatorio.jpg) |
+| ![Página Home](img/home.png) | ![Análise de Vendas](img/relatorio.png) |
 
 | Análise de Vendas (Menu Aberto) | Análise Detalhada (Lucro) |
 | :---: | :---: |
-| ![Menu Aberto](img/menu-aberto.jpg) | ![Análise Detalhada](img/analise.jpg) |
+| ![Menu Aberto](img/menu-aberto.png) | ![Análise Detalhada](img/analise.png) |
